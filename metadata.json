@@ -1,0 +1,18 @@
+{
+  "name": "biswa-helloTravelers",
+  "version": "0.1.0",
+  "author": "bmohanty6",
+  "summary": "This module set up helloTravelers java web project",
+  "license": "Apache-2.0",
+  "source": "",
+  "project_page": null,
+  "issues_url": null,
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"},
+    {"name":"puppetlabs/java", "version_requirement": ">= 1.0.1 < 2.0.0" },
+    {"name":"maestrodev/ant", "version_requirement": "1.0.5"},
+    {"name":"puppetlabs-tomcat", "version_requirement": "1.0.5"}
+  ],
+  "data_provider": null
+}
+
